@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://ykis.tk/"/>
   <updated>2019-05-16T13:59:21.903Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://ykis.tk/</id>
   
   <author>
     <name>Yuru ekis</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/05/16/hello-world/"/>
-    <id>http://yoursite.com/2019/05/16/hello-world/</id>
+    <link href="https://ykis.tk/2019/05/16/hello-world/"/>
+    <id>https://ykis.tk/2019/05/16/hello-world/</id>
     <published>2019-05-16T13:59:21.903Z</published>
     <updated>2019-05-16T13:59:21.903Z</updated>
     
