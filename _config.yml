@@ -83,7 +83,7 @@ theme: typography
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/Yuru-ekis/blog.ykis.tk.git
+  repo: https://gh_token@github.com/Yuru-ekis/blog.ykis.tk.git
   branch: master
 
 archive_generator:
